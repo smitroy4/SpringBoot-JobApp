@@ -37,7 +37,7 @@
 				</li>
 
 				<li class="nav-item">
-					<a class="nav-link" href="https;//codeofclarity.rf.gd">Contact</a>
+					<a class="nav-link" href="https://www.linkedin.com/in/smitroy22">Contact</a>
 				</li>
 			</ul>
 		</div>
